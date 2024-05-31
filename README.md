@@ -1,4 +1,4 @@
-# blueskyfishBSF-C-Programming-Language-class
+# C-Programming-Language-class
 # JNU的C语言程序设计课程结课
 # 学生菜单程序编写要求
 
